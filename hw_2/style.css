@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+  }
+
+  .product {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+
+  .product h2 {
+    margin-top: 0;
+  }
+
+  .reviews {
+    margin-top: 10px;
+  }
+
+  .review {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+
+  .add-review {
+    margin-top: 10px;
+    display: flex;
+    gap: 5px;
+  }
+
+  .error {
+    color: red;
+  }
